@@ -1,0 +1,26 @@
+# ---- Secrets ----
+.env
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+
+# ---- Conda Environments ----
+miniforge3/
+anaconda3/
+text_analyzer/
+
+# ---- NLP Artifacts ----
+nltk_data/
+
+# ---- Logs ----
+*.log
+
+# ---- Database / Runtime Data ----
+*.db
+postgres_data/
+
+# ---- OS / Editors ----
+.DS_Store
+.vscode/
+.idea/
