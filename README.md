@@ -1,4 +1,3 @@
-```markdown
 # AI Text Analyzer API
 
 A production-style AI backend service that demonstrates how modern AI systems are designed, operated, and deployed.
@@ -170,7 +169,3 @@ It is intentionally not a notebook-based or UI-driven demo.
 
 Core functionality is complete and production-ready.
 Future work focuses on retrieval systems, async processing, and evaluation pipelines.
-
-```
-
-```
